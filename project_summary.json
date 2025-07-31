@@ -1,0 +1,16 @@
+{
+  "project_name": "SPaGe_Table_Summarization",
+  "project_type": "nlp",
+  "completion_time": "2025-07-31T21:48:53.069402",
+  "total_tasks": 3,
+  "completed_tasks": 3,
+  "failed_tasks": 0,
+  "critical_errors": 0,
+  "agents_used": [
+    "coder1",
+    "coder2",
+    "coder3",
+    "coder4"
+  ],
+  "project_directory": "artifacts/projects/SPaGe_Table_Summarization"
+}
